@@ -1,0 +1,2 @@
+# KotlinSampleSpeechRecognizer
+Kotlin学習用
